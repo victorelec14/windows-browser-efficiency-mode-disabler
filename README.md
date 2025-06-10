@@ -1,0 +1,1 @@
+# windows-browser-efficiency-disabler
