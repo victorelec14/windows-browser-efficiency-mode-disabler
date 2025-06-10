@@ -2,9 +2,8 @@
 
 A PowerShell script that continuously monitors and disables Windows Efficiency Mode for web browsers, ensuring optimal performance even when running in the background.
 
-<p align="center">
-  <video src="images/script-running.mp4" controls width="500px"></video>
-</p>
+![Script Running](images/script-running.gif)
+
 
 ## The Problem
 
