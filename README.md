@@ -2,6 +2,9 @@
 
 A PowerShell script that continuously monitors and disables Windows Efficiency Mode for web browsers, ensuring optimal performance even when running in the background.
 
+<p align="center">
+  <video src="images/script-running.mp4" controls width="500px"></video>
+</p>
 
 ## The Problem
 
@@ -44,6 +47,8 @@ Some Chromium-based browsers previously supported the `--disable-features=UseEco
 - There might be a minimal delay when switching between tabs or starting video playback
 - The performance impact is practically imperceptible in normal usage
 - The benefits of having full CPU access outweigh any minimal delays
+
+![Script Resources usage](images/script-resources-usage.png)
 
 ## Contributing
 
